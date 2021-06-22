@@ -1,4 +1,12 @@
 ### Hi there 👋
+- Меня зовут Антон и я начинающий фронтенд-разработчик 🐱‍🚀
+- Готов влиться в команду и начать развиваться с ней в любой момент! 
+
+ Мой стек:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoshkow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **antoshkow/antoshkow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
