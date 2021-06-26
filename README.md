@@ -8,7 +8,7 @@
 
 ### ☎📟📱 Связаться:
 <a href="https://t.me/antoshkow" rel="nofollow"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="linkedin.com/in/antoshkow" rel="nofollow"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/antoshkow" rel="nofollow"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 ### 🔭🔬👓 Github stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoshkow&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoshkow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
